@@ -1,0 +1,82 @@
+[0;2;37;33m===========================================
+Wie man den Kommentartext blocken kann
+===========================================
+Durch das Codezeichen vor den Farbcodes
+<--- wie in der Text Datei zu sehen!
+Dadurch ist der Text geblockt und keiner
+kann  die Kommentare herauskopieren
+
+
+[0;2;37;33m===========================================
+CODES 1 - Fr Text und Hintergrund
+===========================================
+[0;1;37m Weiá auf schwarzem Hintergrund 
+[0;1;37;30m Grau auf schwarzem Hintergrund  
+[0;1;37;31m Rot auf schwarzem Hintergrund 
+[0;1;37;32m Grn auf schwarzem Hintergrund 
+[0;1;37;33m Gelb auf schwarzem Hintergrund 
+[0;1;37;34m Blau auf schwarzem Hintergrund  
+[0;1;37;35m Pink auf schwarzem Hintergrund 
+[0;1;37;36m Hellblau auf schwarzem Hintergrund 
+
+
+[0;2;37;33m===========================================
+CODES 1 wie oben nur mit dunklerer Schrift
+===========================================
+[0;2;37m ;-)
+[0;2;37;30m ;-) Text wird ausgeblendet (Schwarz auf Schwarz)
+[0;2;37;31m ;-)
+[0;2;37;32m ;-)
+[0;2;37;33m ;-)
+[0;2;37;34m ;-)
+[0;2;37;35m ;-)
+[0;2;37;36m ;-)
+
+
+[0;2;37;33m===========================================
+CODES 2 Hintergrund im Text
+===========================================
+[0;1;37;41m Weiáe Schrift, Rot fr den Textteil auf Schwarzem Hintergrund
+
+[0;1;37;42m Weiáe Schrift, Grn fr den Textteil auf Schwarzem Hintergrund
+
+[0;2;37;43m Weiáe Schrift, Gelb fr den Textteil auf Schwarzem Hintergrund
+[0;1;37;43m <<--- Schlechte wahl
+[0;3;37;43m <<--- besser mit dunklerem Text
+
+[0;1;37;44m Weiáe Schrift, Blau fr den Textteil auf Schwarzem Hintergrund
+
+[0;1;37;45m Weiáe Schrift, Pink fr den Textteil auf Schwarzem Hintergrund
+
+[0;1;37;46m Weiáe Schrift, Hellblau fr den Textteil auf Schwarzem Hintergrund
+
+[0;3;37;47m Graue Schrift, Weiá fr den Textteil auf Schwarzem Hintergrund
+
+
+[0;2;37;33m===========================================
+CODES 2 wie oben nur mit dunklerer Schrift
+===========================================
+[0;2;37;41m ;-)
+[0;2;37;42m ;-)
+[0;2;37;43m ;-)
+[0;2;37;44m ;-)
+[0;2;37;45m ;-)
+[0;2;37;46m ;-)
+[0;2;37;47m ;-)
+
+
+[0;2;37;33m===========================================
+CODES 3 Umlaute
+===========================================
+[0;2;37;30m ae = „
+[0;2;37;31m oe = ”
+[0;2;37;32m ue = 
+[0;2;37;33m AE = Ž
+[0;2;37;34m OE = ™
+[0;2;37;35m UE = š
+[0;2;37;36m sz = á
+
+
+[1;37;31m===========================================
+https://github.com/Bolle1987
+===========================================
