@@ -2,7 +2,8 @@
 Some examples of what you can do in archive commentary
 
 > [!IMPORTANT]<br/>
-> Coloured comment feature removed in 2026 with WinRAR 7.20
+> Coloured comment feature removed in 2026 with WinRAR 7.20</br>
+> But worked again with 7.22 `¯\_(ツ)_/¯`
 </br>
 
 > [!NOTE]<br/>
